@@ -89,3 +89,11 @@ Training loss: 0.841 ... Validation loss: 0.521
 
 ### Transfer model:
 Accuracy : 65%
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* The data comes from Udacity.
