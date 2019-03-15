@@ -51,8 +51,18 @@ Place the training, validation, and test images in the `data/` folder, at `data/
 
 	```	
 	git clone https://github.com/shyamStarwalt/Dermatologist-AI.git
+	
+	```
+2. Download and Install Anaconda [from here](https://www.anaconda.com/)
+
+3. Install the above packages mentioned in the Prerequisites (Anaconda Prompt)
+
+4. Open the cloned repository and navigate to
+
+	```
 	cd cancer_detection
 	```
+	
 2. Open the cancer_detection.ipynb
 
 	```
