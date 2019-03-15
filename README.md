@@ -76,7 +76,7 @@ Place the training, validation, and test images in the `data/` folder, at `data/
 - Intro
 - Step 0: Import Datasets
 - Step 1: Detect type of skin cancer
-- Step 2: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+- Step 2: Create a CNN to Classify types of cancer (using Transfer Learning)
 - Step 3: Write Your Algorithm
 - Step 4: Test Your Algorithm
 
