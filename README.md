@@ -51,7 +51,6 @@ Place the training, validation, and test images in the `data/` folder, at `data/
 
 	```	
 	git clone https://github.com/shyamStarwalt/Dermatologist-AI.git
-	
 	```
 2. Download and Install Anaconda [from here](https://www.anaconda.com/)
 
